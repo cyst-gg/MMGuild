@@ -1,0 +1,4 @@
+discord.py 
+blockcypher 
+requests
+chat-exporter
