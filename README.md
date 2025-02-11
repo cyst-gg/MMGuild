@@ -13,7 +13,7 @@ The most secure discord auto middleman bot for your discord market server ! With
 
 Clone the repository:
 ```
-git clone https://github.com/Celentroft/AutoMm-bot.git
+git clone https://github.com/cyst-gg/MMGuild
 ```
 Install requirements:
 ```
